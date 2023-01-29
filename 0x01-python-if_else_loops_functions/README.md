@@ -1,1 +1,1 @@
-This is used to create random numbers in python (script)
+# Solution to tasks on conditionals & loops
